@@ -1,0 +1,120 @@
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2022-04-20T06:56:26.780Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Your site is now available on http://ec2-34-201-55-199.compute-1.amazonaws.com/","time":"2022-04-20T06:56:26.782Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2022-04-20T06:56:26.783Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Ghost server started in 1.068s","time":"2022-04-20T06:56:26.787Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":40,"msg":"Database state requires initialisation.","time":"2022-04-20T06:56:26.990Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: newsletters","time":"2022-04-20T06:56:27.462Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: posts","time":"2022-04-20T06:56:27.483Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: posts_meta","time":"2022-04-20T06:56:27.496Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: users","time":"2022-04-20T06:56:27.510Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: oauth","time":"2022-04-20T06:56:27.535Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: posts_authors","time":"2022-04-20T06:56:27.544Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: roles","time":"2022-04-20T06:56:27.553Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: roles_users","time":"2022-04-20T06:56:27.568Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: permissions","time":"2022-04-20T06:56:27.576Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: permissions_users","time":"2022-04-20T06:56:27.595Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: permissions_roles","time":"2022-04-20T06:56:27.603Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: settings","time":"2022-04-20T06:56:27.612Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: tags","time":"2022-04-20T06:56:27.628Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: posts_tags","time":"2022-04-20T06:56:27.644Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: invites","time":"2022-04-20T06:56:27.652Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: brute","time":"2022-04-20T06:56:27.672Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: sessions","time":"2022-04-20T06:56:27.680Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: integrations","time":"2022-04-20T06:56:27.694Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: webhooks","time":"2022-04-20T06:56:27.708Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: api_keys","time":"2022-04-20T06:56:27.716Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2022-04-20T06:56:27.731Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members","time":"2022-04-20T06:56:27.747Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: products","time":"2022-04-20T06:56:27.777Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: offers","time":"2022-04-20T06:56:27.791Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: benefits","time":"2022-04-20T06:56:27.824Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: products_benefits","time":"2022-04-20T06:56:27.839Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_products","time":"2022-04-20T06:56:27.847Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: posts_products","time":"2022-04-20T06:56:27.856Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_cancel_events","time":"2022-04-20T06:56:27.868Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_payment_events","time":"2022-04-20T06:56:27.876Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_login_events","time":"2022-04-20T06:56:27.885Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_email_change_events","time":"2022-04-20T06:56:27.893Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_status_events","time":"2022-04-20T06:56:27.900Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_product_events","time":"2022-04-20T06:56:27.909Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_paid_subscription_events","time":"2022-04-20T06:56:27.916Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: labels","time":"2022-04-20T06:56:27.928Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_labels","time":"2022-04-20T06:56:27.951Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_stripe_customers","time":"2022-04-20T06:56:27.961Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2022-04-20T06:56:27.976Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: offer_redemptions","time":"2022-04-20T06:56:27.996Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_subscribe_events","time":"2022-04-20T06:56:28.004Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: stripe_products","time":"2022-04-20T06:56:28.014Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: stripe_prices","time":"2022-04-20T06:56:28.030Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: actions","time":"2022-04-20T06:56:28.047Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: emails","time":"2022-04-20T06:56:28.055Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: email_batches","time":"2022-04-20T06:56:28.076Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: email_recipients","time":"2022-04-20T06:56:28.084Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: tokens","time":"2022-04-20T06:56:28.122Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: snippets","time":"2022-04-20T06:56:28.136Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: temp_member_analytic_events","time":"2022-04-20T06:56:28.151Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: custom_theme_settings","time":"2022-04-20T06:56:28.160Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Creating table: members_newsletters","time":"2022-04-20T06:56:28.168Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Model: Product","time":"2022-04-20T06:56:28.185Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Model: Newsletter","time":"2022-04-20T06:56:28.235Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Model: Tag","time":"2022-04-20T06:56:28.242Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Model: Role","time":"2022-04-20T06:56:28.250Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Model: Permission","time":"2022-04-20T06:56:28.282Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Model: User","time":"2022-04-20T06:56:28.683Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Model: Post","time":"2022-04-20T06:56:29.008Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Model: Integration","time":"2022-04-20T06:56:29.591Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Relation: Role to Permission","time":"2022-04-20T06:56:29.626Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Relation: Post to Tag","time":"2022-04-20T06:56:29.970Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Relation: User to Role","time":"2022-04-20T06:56:29.986Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Database is in a ready state.","time":"2022-04-20T06:56:30.097Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Ghost database ready in 4.38s","time":"2022-04-20T06:56:30.098Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Ghost URL Service Ready in 7.255s","time":"2022-04-20T06:56:32.974Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Stripe not configured - skipping migrations","time":"2022-04-20T06:56:33.194Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Ghost booted in 7.572s","time":"2022-04-20T06:56:33.291Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-04-20T06:56:33.296Z","v":0}
+{"name":"Log","hostname":"e498df25a7b9","pid":1,"level":30,"msg":"Scheduling job update-check at 39 29 19 * * *. Next run on: Wed Apr 20 2022 19:29:39 GMT+0000 (Coordinated Universal Time)","time":"2022-04-20T06:56:33.310Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2022-04-20T06:57:47.468Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Your site is now available on http://ec2-34-201-55-199.compute-1.amazonaws.com/","time":"2022-04-20T06:57:47.469Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2022-04-20T06:57:47.470Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost server started in 0.772s","time":"2022-04-20T06:57:47.474Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Database is in a ready state.","time":"2022-04-20T06:57:47.744Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost database ready in 1.133s","time":"2022-04-20T06:57:47.835Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Stripe not configured - skipping migrations","time":"2022-04-20T06:57:49.980Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost booted in 3.395s","time":"2022-04-20T06:57:50.097Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-04-20T06:57:50.102Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Scheduling job update-check at 41 2 3 * * *. Next run on: Thu Apr 21 2022 03:02:41 GMT+0000 (Coordinated Universal Time)","time":"2022-04-20T06:57:50.116Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost URL Service Ready in 3.501s","time":"2022-04-20T06:57:50.203Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":40,"msg":"Ghost is shutting down","time":"2022-04-20T07:10:12.423Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":40,"msg":"Ghost has shut down","time":"2022-04-20T07:10:12.429Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":40,"msg":"Your site is now offline","time":"2022-04-20T07:10:12.429Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":40,"msg":"Ghost was running for 12 minutes","time":"2022-04-20T07:10:12.431Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2022-04-20T07:10:13.722Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Your site is now available on http://ec2-34-201-55-199.compute-1.amazonaws.com/","time":"2022-04-20T07:10:13.724Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2022-04-20T07:10:13.724Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost server started in 0.643s","time":"2022-04-20T07:10:13.728Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Database is in a ready state.","time":"2022-04-20T07:10:13.910Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost database ready in 0.879s","time":"2022-04-20T07:10:13.964Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Stripe not configured - skipping migrations","time":"2022-04-20T07:10:16.037Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost booted in 3.072s","time":"2022-04-20T07:10:16.157Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-04-20T07:10:16.163Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Scheduling job update-check at 52 34 17 * * *. Next run on: Wed Apr 20 2022 17:34:52 GMT+0000 (Coordinated Universal Time)","time":"2022-04-20T07:10:16.176Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost URL Service Ready in 3.176s","time":"2022-04-20T07:10:16.262Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":40,"msg":"Ghost is shutting down","time":"2022-04-20T07:12:39.686Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":40,"msg":"Ghost has shut down","time":"2022-04-20T07:12:39.695Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":40,"msg":"Your site is now offline","time":"2022-04-20T07:12:39.696Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":40,"msg":"Ghost was running for 2 minutes","time":"2022-04-20T07:12:39.697Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2022-04-20T07:12:40.973Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Your site is now available on http://ec2-34-201-55-199.compute-1.amazonaws.com/","time":"2022-04-20T07:12:40.975Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2022-04-20T07:12:40.976Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost server started in 0.633s","time":"2022-04-20T07:12:40.980Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Database is in a ready state.","time":"2022-04-20T07:12:41.160Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost database ready in 0.867s","time":"2022-04-20T07:12:41.214Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Stripe not configured - skipping migrations","time":"2022-04-20T07:12:43.274Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost booted in 3.046s","time":"2022-04-20T07:12:43.392Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-04-20T07:12:43.397Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Scheduling job update-check at 45 10 9 * * *. Next run on: Wed Apr 20 2022 09:10:45 GMT+0000 (Coordinated Universal Time)","time":"2022-04-20T07:12:43.411Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":30,"msg":"Ghost URL Service Ready in 3.151s","time":"2022-04-20T07:12:43.498Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":40,"msg":"Ghost is shutting down","time":"2022-04-20T07:20:36.268Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":40,"msg":"Ghost has shut down","time":"2022-04-20T07:20:36.272Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":40,"msg":"Your site is now offline","time":"2022-04-20T07:20:36.280Z","v":0}
+{"name":"Log","hostname":"2d435e57d1a1","pid":1,"level":40,"msg":"Ghost was running for 8 minutes","time":"2022-04-20T07:20:36.281Z","v":0}

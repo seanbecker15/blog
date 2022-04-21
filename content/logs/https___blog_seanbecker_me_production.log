@@ -1,0 +1,34 @@
+{"name":"Log","hostname":"7c52b3261c44","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2022-04-21T04:51:00.948Z","v":0}
+{"name":"Log","hostname":"7c52b3261c44","pid":1,"level":30,"msg":"Your site is now available on https://blog.seanbecker.me/","time":"2022-04-21T04:51:00.950Z","v":0}
+{"name":"Log","hostname":"7c52b3261c44","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2022-04-21T04:51:00.951Z","v":0}
+{"name":"Log","hostname":"7c52b3261c44","pid":1,"level":30,"msg":"Ghost server started in 0.639s","time":"2022-04-21T04:51:00.955Z","v":0}
+{"name":"Log","hostname":"7c52b3261c44","pid":1,"level":30,"msg":"Database is in a ready state.","time":"2022-04-21T04:51:01.148Z","v":0}
+{"name":"Log","hostname":"7c52b3261c44","pid":1,"level":30,"msg":"Ghost database ready in 0.888s","time":"2022-04-21T04:51:01.204Z","v":0}
+{"name":"Log","hostname":"7c52b3261c44","pid":1,"level":30,"msg":"Stripe not configured - skipping migrations","time":"2022-04-21T04:51:03.248Z","v":0}
+{"name":"Log","hostname":"7c52b3261c44","pid":1,"level":30,"msg":"Ghost booted in 3.06s","time":"2022-04-21T04:51:03.376Z","v":0}
+{"name":"Log","hostname":"7c52b3261c44","pid":1,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-04-21T04:51:03.381Z","v":0}
+{"name":"Log","hostname":"7c52b3261c44","pid":1,"level":30,"msg":"Scheduling job update-check at 8 40 10 * * *. Next run on: Thu Apr 21 2022 10:40:08 GMT+0000 (Coordinated Universal Time)","time":"2022-04-21T04:51:03.395Z","v":0}
+{"name":"Log","hostname":"7c52b3261c44","pid":1,"level":30,"msg":"Ghost URL Service Ready in 3.261s","time":"2022-04-21T04:51:03.576Z","v":0}
+{"name":"Log","hostname":"caa5f1da2680","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2022-04-21T04:51:05.187Z","v":0}
+{"name":"Log","hostname":"caa5f1da2680","pid":1,"level":30,"msg":"Your site is now available on https://blog.seanbecker.me/","time":"2022-04-21T04:51:05.188Z","v":0}
+{"name":"Log","hostname":"caa5f1da2680","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2022-04-21T04:51:05.189Z","v":0}
+{"name":"Log","hostname":"caa5f1da2680","pid":1,"level":30,"msg":"Ghost server started in 0.641s","time":"2022-04-21T04:51:05.193Z","v":0}
+{"name":"Log","hostname":"caa5f1da2680","pid":1,"level":30,"msg":"Database is in a ready state.","time":"2022-04-21T04:51:05.385Z","v":0}
+{"name":"Log","hostname":"caa5f1da2680","pid":1,"level":30,"msg":"Ghost database ready in 0.887s","time":"2022-04-21T04:51:05.440Z","v":0}
+{"name":"Log","hostname":"caa5f1da2680","pid":1,"level":30,"msg":"Stripe not configured - skipping migrations","time":"2022-04-21T04:51:07.484Z","v":0}
+{"name":"Log","hostname":"caa5f1da2680","pid":1,"level":30,"msg":"Ghost booted in 3.051s","time":"2022-04-21T04:51:07.604Z","v":0}
+{"name":"Log","hostname":"caa5f1da2680","pid":1,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-04-21T04:51:07.609Z","v":0}
+{"name":"Log","hostname":"caa5f1da2680","pid":1,"level":30,"msg":"Scheduling job update-check at 38 15 23 * * *. Next run on: Thu Apr 21 2022 23:15:38 GMT+0000 (Coordinated Universal Time)","time":"2022-04-21T04:51:07.624Z","v":0}
+{"name":"Log","hostname":"caa5f1da2680","pid":1,"level":30,"msg":"Ghost URL Service Ready in 3.155s","time":"2022-04-21T04:51:07.707Z","v":0}
+{"name":"Log","hostname":"2e6fef53ff40","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2022-04-21T04:57:31.213Z","v":0}
+{"name":"Log","hostname":"2e6fef53ff40","pid":1,"level":30,"msg":"Your site is now available on https://blog.seanbecker.me/","time":"2022-04-21T04:57:31.215Z","v":0}
+{"name":"Log","hostname":"2e6fef53ff40","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2022-04-21T04:57:31.216Z","v":0}
+{"name":"Log","hostname":"2e6fef53ff40","pid":1,"level":30,"msg":"Ghost server started in 1.33s","time":"2022-04-21T04:57:31.220Z","v":0}
+{"name":"Log","hostname":"2e6fef53ff40","pid":1,"level":30,"msg":"Database is in a ready state.","time":"2022-04-21T04:57:31.680Z","v":0}
+{"name":"Log","hostname":"2e6fef53ff40","pid":1,"level":30,"msg":"Ghost database ready in 1.918s","time":"2022-04-21T04:57:31.808Z","v":0}
+{"name":"Log","hostname":"2e6fef53ff40","pid":1,"level":30,"msg":"Stripe not configured - skipping migrations","time":"2022-04-21T04:57:37.539Z","v":0}
+{"name":"Log","hostname":"2e6fef53ff40","pid":1,"level":30,"msg":"Ghost URL Service Ready in 7.69s","time":"2022-04-21T04:57:37.579Z","v":0}
+{"name":"Log","hostname":"2e6fef53ff40","pid":1,"level":30,"msg":"Ghost booted in 7.912s","time":"2022-04-21T04:57:37.801Z","v":0}
+{"name":"Log","hostname":"2e6fef53ff40","pid":1,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-04-21T04:57:37.816Z","v":0}
+{"name":"Log","hostname":"2e6fef53ff40","pid":1,"level":30,"msg":"Scheduling job update-check at 33 36 2 * * *. Next run on: Fri Apr 22 2022 02:36:33 GMT+0000 (Coordinated Universal Time)","time":"2022-04-21T04:57:37.849Z","v":0}
+{"name":"Log","hostname":"2e6fef53ff40","pid":1,"level":30,"req":{"meta":{"requestId":"2ac75191-1719-420d-ad0d-d586d2644a36","userId":null},"url":"/","method":"GET","originalUrl":"/","params":{},"headers":{"host":"blog.seanbecker.me","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9","accept-encoding":"gzip, deflate","accept-language":"en-US,en;q=0.9"},"query":{}},"res":{"_headers":{"x-powered-by":"Express","cache-control":"public, max-age=31536000","location":"https://blog.seanbecker.me/","vary":"Accept, Accept-Encoding","content-type":"text/html; charset=utf-8","content-length":"110"},"statusCode":301,"responseTime":"52ms"},"msg":"","time":"2022-04-21T05:10:33.364Z","v":0}
